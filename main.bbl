@@ -1,0 +1,12 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Gao et~al.(2019)Gao, Zhu, Wu, Xia, Qin, Cheng, Zhou, and
+  Liu}]{gaoSoft2019}
+Fei Gao, Jinhua Zhu, Lijun Wu, Yingce Xia, Tao Qin, Xueqi Cheng, Wengang Zhou,
+  and Tie-Yan Liu. 2019.
+\newblock Soft contextual data augmentation for neural machine translation.
+\newblock In \emph{Proceedings of the 57th Conference of the Association for
+  Computational Linguistics}, pages 5539--5544.
+
+\end{thebibliography}
